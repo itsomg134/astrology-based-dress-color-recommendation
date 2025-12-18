@@ -16,6 +16,8 @@ An interactive web application that helps users discover their perfect dress col
 - **Lucky Tips** - Personalized guidance on how colors benefit your sign
 - **Modern Aesthetics** - Cosmic gradient background with glassmorphism effects
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/368e0070-64f7-4006-94ab-6aa810ff21cf" />
+
 ## 🎨 Color Recommendations by Sign
 
 | Zodiac Sign | Primary Colors | Element |
@@ -32,6 +34,10 @@ An interactive web application that helps users discover their perfect dress col
 | ♑ Capricorn | Black, Charcoal, Dark Brown | Earth |
 | ♒ Aquarius | Electric Blue, Turquoise, Silver | Air |
 | ♓ Pisces | Lavender, Sea Green, Aquamarine | Water |
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d00b2543-1b70-40d5-9848-019a9c423097" />
+
 
 ## 🚀 Getting Started
 
